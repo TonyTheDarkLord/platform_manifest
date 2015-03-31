@@ -10,6 +10,11 @@
            revision="lollipop"
            fetch="https://github.com/"
            review="gerrit.aokp.co" />
+           
+  <remote  name="omnirom"
+           review="gerrit.omnirom.org"
+           fetch="https://github.com/omnirom" />
+
 
   <remote  name="github"
            fetch=".."
